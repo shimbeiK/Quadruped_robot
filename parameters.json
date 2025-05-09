@@ -1,0 +1,32 @@
+{
+    "dogzilla_s2": {
+        "L1": 75,
+        "L2": 60,
+        "L3": 31.6,
+        "theta1_limit": [-90, 90],
+        "theta2_limit": [-90, 90],
+        "theta3_limit": [-90, 90],
+        "leg_deviation": [22.5, 75, 0],
+        "height": 0
+    },
+    "dogzilla_s2_neo": {
+        "L1": 31.6,
+        "L2": 60,
+        "L3": 75,
+        "theta1_limit": [-90, 90],
+        "theta2_limit": [-90, 90],
+        "theta3_limit": [-90, 90],
+        "leg_deviation": [22.5, 75, 0],
+        "height": 0
+    },
+    "simQ": {
+        "L1": 1.07,
+        "L2": 2.75,
+        "L3": 3.125,
+        "theta1_limit": [-90, 90],
+        "theta2_limit": [-90, 90],
+        "theta3_limit": [-90, 90],
+        "leg_deviation": [1.475, 3.25, 0],
+        "height": 0
+    }
+}
